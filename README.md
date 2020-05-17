@@ -1,4 +1,4 @@
-# Github repository containing the code that was used for our Business Data Science Final Project
+# Predictive Model for Customer Behavior
 
 Github repo consists of two files: Jupyter notebook containing data cleaning and model codes titled BDS Final Project Notebook.ipynb, and a csv file that was used from the UCI's machine learning repository titled ShoppingData.csv.
 
